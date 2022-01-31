@@ -1,7 +1,7 @@
 /**
- * Author: Chris Bourke
- *         cbourke@cse.unl.edu
- * Date: 2020/03/26
+ * Author: Ryan Gallo
+ *         Miguel Amezola
+ * Date: 2022/01/28
  *
  * A simple hello world program in C
  *
@@ -11,7 +11,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello World!\n");
+  printf("Ryan Gallo\n");
+  printf("Electrical Engineer\n")
 
   return 0;
 }
